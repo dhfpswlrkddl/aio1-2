@@ -25,16 +25,28 @@ Python 기본 문법과 객체 지향 프로그래밍(OOP)을 적용하고, JSON
 
 ### 실행 명령어
 ```bash
-# 1. 저장소 클론 및 이동
+# 1. 저장소 클론
 git clone https://github.com/dhfpswlrkddl/aio1-2.git
-cd aio1-2
 
 # 2. 프로그램 실행
 python main.py
 ```
 
-# 실행 예시
+# 메인 화면
 ![alt text](image.png)
+
+# 문제 풀이 화면
+![alt text](image-1.png)
+
+최고 점수 확인
+
+![alt text](image-3.png)
+
+# 문제 추가 화면
+![alt text](image-2.png)
+
+# 퀴즈 목록 화면
+![alt text](image-4.png)
 
 ---
 
@@ -98,13 +110,7 @@ aio1-2/
 
 ---
 
-## 📸 7. 실행 화면 스크린샷 (제출 체크리스트)
+## 보너스 미션
+문제 삭제가 보너스 미션으로 구현되어 있음
 
-> ※ 제출 시 캡처 이미지를 `docs/screenshots/` 경로에 저장 후 연결할 수 있습니다.
-
-- [ ] 개발 환경 설정 스크린샷 (VS Code, Python 버전, Git 설정)
-- [ ] 메인 메뉴 화면
-- [ ] 퀴즈 풀기 진행 및 점수 갱신 화면
-- [ ] 퀴즈 추가 화면
-- [ ] 퀴즈 목록 화면
-- [ ] `git log --oneline --graph` 터미널 화면
+![alt text](image-5.png)
