@@ -68,6 +68,7 @@ class QuizGame:
                 choices=["add()", "push()", "append()", "insert()"],
                 answer=3,
             ),
+            
             # 2. 일반 상식
             Quiz(
                 question="[일반 상식] 세계에서 가장 넓은 면적을 차지하는 바다(대양)는 어디일까요?",
@@ -84,6 +85,7 @@ class QuizGame:
                 ],
                 answer=1,
             ),
+
             # 3. 게임 상식
             Quiz(
                 question="[게임 상식] 전 세계에서 누적 판매량 3억 장 이상으로 역대 가장 많이 팔린 게임은?",
