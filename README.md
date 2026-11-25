@@ -48,6 +48,9 @@ python main.py
 # 퀴즈 목록 화면
 ![alt text](image-4.png)
 
+# 커밋 and 브랜치 로그
+![alt text](image-6.png)
+
 ---
 
 ## ✨ 4. 주요 기능 목록
